@@ -1,0 +1,8 @@
+#Pseudocode
+create dictionaries to store states and capitals
+create dictionaries to store other cities in the same state-alternative answers
+create function to display the menu
+create function to generate questions
+accept user input 
+calculate score
+display final score
