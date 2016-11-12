@@ -1,0 +1,19 @@
+#Pseudocode
+create dictionaries to store states and capitals
+create dictionaries to store other cities in the same state-alternative answers
+create function display_menu which will display the following menu
+	 1 - Start Test
+	 2 - Exit
+create function generate_question to generate questions
+
+create a function administer_test which does the following
+	In a for loop (1-10)
+	    generate_question 
+		accept user input 
+		calculate score
+	display final score
+
+Create a function main
+	display_menu
+	Accept user input
+	call administer_test()
